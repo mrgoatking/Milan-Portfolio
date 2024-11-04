@@ -19,4 +19,4 @@ I believe in creating websites and applications that are:
 ## 📂 Projects
 
 In this page is some of the projects i have worked on
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgoatking)](https://github.com/anuraghazra/github-readme-stats)
