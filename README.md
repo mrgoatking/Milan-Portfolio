@@ -21,4 +21,4 @@ I believe in creating websites and applications that are:
 In this page is some of the projects i have worked on
 
 ## 💻 Milan
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgoatking&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgoatking&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
