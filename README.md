@@ -22,4 +22,4 @@ In this page is some of the projects i have worked on
 
 ## 💻 Milan
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrgoatking&show_icons=true&theme=radical&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&layout=compact)
